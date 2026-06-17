@@ -1,6 +1,7 @@
 # Bursa Screener
 
 Stock screener applicable for Bursa Malaysia counters that automatically consolidates counters data. Built on top of `yfinance`, it pulls key financial metrics and exports everything into '.csv'
+<img width="910" height="670" alt="image" src="https://github.com/user-attachments/assets/8515c727-4307-468d-a298-3a431a671e29" />
 
 ---
 
